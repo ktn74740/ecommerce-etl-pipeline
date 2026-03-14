@@ -55,3 +55,5 @@ Add production-style improvements such as validation, logging, and better struct
 
 ## Current Status
 Version 0 completed: project initialized and roadmap defined.
+sythetic data generators are done
+loaded master data in db using my sql work bench
