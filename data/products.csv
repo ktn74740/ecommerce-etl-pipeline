@@ -1,0 +1,26 @@
+product_id,product_name,category,price
+1001,Wireless Mouse,Electronics,390.83
+1002,Mechanical Keyboard,Electronics,206.5
+1003,Bluetooth Speaker,Electronics,281.51
+1004,USB Hub,Electronics,265.96
+1005,Webcam,Electronics,419.94
+1006,Running Shoes,Footwear,402.01
+1007,Sneakers,Footwear,466.65
+1008,Sandals,Footwear,225.08
+1009,Formal Shoes,Footwear,325.58
+1010,Slippers,Footwear,207.94
+1011,Backpack,Accessories,264.59
+1012,Wallet,Accessories,350.61
+1013,Water Bottle,Accessories,206.96
+1014,Sunglasses,Accessories,258.65
+1015,Cap,Accessories,393.97
+1016,T-Shirt,Clothing,362.48
+1017,Jeans,Clothing,265.13
+1018,Hoodie,Clothing,375.78
+1019,Jacket,Clothing,441.83
+1020,Shirt,Clothing,200.95
+1021,Table Lamp,Home,440.75
+1022,Bedsheet,Home,408.44
+1023,Coffee Mug,Home,301.08
+1024,Wall Clock,Home,245.64
+1025,Storage Box,Home,486.16

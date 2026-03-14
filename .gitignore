@@ -20,8 +20,8 @@ venv/
 .DS_Store
 
 # Data files (optional later)
-*.csv
-*.json
+#*.csv
+#*.json
 
 # Spark
 spark-warehouse/
